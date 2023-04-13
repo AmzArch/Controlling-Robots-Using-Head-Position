@@ -1,4 +1,4 @@
-# Controlling-Robots-Using-Head-Position
+# Controlling-Robots-Using-Head-Gestures
 
 This project focuses on using the Externally Guided Motion (EGM) feature of ABB robots, such as Yumi, to help individuals with limited or no arm function control the robot using their head position. This will make their lives easier and improve their quality of life.
 
